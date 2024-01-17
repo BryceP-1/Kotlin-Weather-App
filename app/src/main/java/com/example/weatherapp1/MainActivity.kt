@@ -7,7 +7,7 @@ import android.view.View
 class MainActivity : AppCompatActivity() {
 
     val CITY: String = "newark,nj"
-    val API: String = "35cfab91cf4c30606af1b9c756f2bda3"
+    val API: String = "91cf4c30606af1b9c756f2bda3"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
